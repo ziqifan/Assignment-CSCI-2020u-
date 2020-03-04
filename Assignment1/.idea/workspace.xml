@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77e01baa-bc90-4458-8bb0-d69dd8867228" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YPfHmYbTb7lsisTdDqRJZk94pT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Midterm review code/lab4" />
+  </component>
+  <component name="RunManager" selected="Application.Histogram">
+    <configuration name="DraggingPoints" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DraggingPoints" />
+      <module name="Assignment1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Histogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Histogram" />
+      <module name="Assignment1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InvestmentValueCalculater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InvestmentValueCalculater" />
+      <module name="Assignment1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreeCards" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeCards" />
+      <module name="Assignment1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Histogram" />
+        <item itemvalue="Application.DraggingPoints" />
+        <item itemvalue="Application.InvestmentValueCalculater" />
+        <item itemvalue="Application.ThreeCards" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77e01baa-bc90-4458-8bb0-d69dd8867228" name="Default Changelist" comment="" />
+      <created>1582849064253</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582849064253</updated>
+      <workItem from="1582849067149" duration="8542000" />
+      <workItem from="1583182749960" duration="770000" />
+      <workItem from="1583247407512" duration="16176000" />
+      <workItem from="1583296799223" duration="14224000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1107" y="351" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582849411937">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1107" y="351" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1582849411937" />
+    <state x="1660" y="333" key="#com.intellij.ide.util.MemberChooser" timestamp="1583301627746">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1245" y="250" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1582919243131" />
+    <state x="1660" y="333" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1440@0.0.2560.1440" timestamp="1583301627746" />
+    <state x="1627" y="399" key="FileChooserDialogImpl" timestamp="1583307153534">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1220" y="299" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1583256408163" />
+    <state x="1627" y="399" key="FileChooserDialogImpl/0.0.2560.1440@0.0.2560.1440" timestamp="1583307153534" />
+    <state width="1235" height="297" key="GridCell.Tab.0.bottom" timestamp="1583313342308">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="914" height="297" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1583257327888" />
+    <state width="1235" height="297" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1583313342308" />
+    <state width="1235" height="297" key="GridCell.Tab.0.center" timestamp="1583313342308">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="914" height="297" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1583257327888" />
+    <state width="1235" height="297" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1583313342308" />
+    <state width="1235" height="297" key="GridCell.Tab.0.left" timestamp="1583313342308">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="914" height="297" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1583257327888" />
+    <state width="1235" height="297" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1583313342308" />
+    <state width="1235" height="297" key="GridCell.Tab.0.right" timestamp="1583313342308">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="914" height="297" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1583257327888" />
+    <state width="1235" height="297" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1583313342308" />
+    <state x="1148" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1583247529732">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1148" y="369" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1583247529732" />
+    <state x="685" y="167" key="new project wizard" timestamp="1583182922621">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="685" y="167" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1583182922621" />
+  </component>
+</project>
