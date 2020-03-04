@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77e01baa-bc90-4458-8bb0-d69dd8867228" name="Default Changelist" comment="" />
+    <list default="true" id="77e01baa-bc90-4458-8bb0-d69dd8867228" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1YPfHmYbTb7lsisTdDqRJZk94pT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,9 +30,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Midterm review code/lab4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Midterm review code/lab7" />
   </component>
   <component name="RunManager" selected="Application.Histogram">
     <configuration name="DraggingPoints" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -90,6 +99,7 @@
       <workItem from="1583182749960" duration="770000" />
       <workItem from="1583247407512" duration="16176000" />
       <workItem from="1583296799223" duration="14224000" />
+      <workItem from="1583331556904" duration="2576000" />
     </task>
     <servers />
   </component>
@@ -106,30 +116,30 @@
     </state>
     <state x="1245" y="250" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1582919243131" />
     <state x="1660" y="333" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1440@0.0.2560.1440" timestamp="1583301627746" />
-    <state x="1627" y="399" key="FileChooserDialogImpl" timestamp="1583307153534">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state x="1220" y="299" key="FileChooserDialogImpl" timestamp="1583332330357">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1220" y="299" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1583256408163" />
+    <state x="1220" y="299" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1583332330357" />
     <state x="1627" y="399" key="FileChooserDialogImpl/0.0.2560.1440@0.0.2560.1440" timestamp="1583307153534" />
-    <state width="1235" height="297" key="GridCell.Tab.0.bottom" timestamp="1583313342308">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state width="1860" height="207" key="GridCell.Tab.0.bottom" timestamp="1583334369758">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="914" height="297" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1583257327888" />
+    <state width="1860" height="207" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1583334369758" />
     <state width="1235" height="297" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1583313342308" />
-    <state width="1235" height="297" key="GridCell.Tab.0.center" timestamp="1583313342308">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state width="1860" height="207" key="GridCell.Tab.0.center" timestamp="1583334369758">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="914" height="297" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1583257327888" />
+    <state width="1860" height="207" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1583334369758" />
     <state width="1235" height="297" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1583313342308" />
-    <state width="1235" height="297" key="GridCell.Tab.0.left" timestamp="1583313342308">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state width="1860" height="207" key="GridCell.Tab.0.left" timestamp="1583334369758">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="914" height="297" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1583257327888" />
+    <state width="1860" height="207" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1583334369758" />
     <state width="1235" height="297" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1583313342308" />
-    <state width="1235" height="297" key="GridCell.Tab.0.right" timestamp="1583313342308">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state width="1860" height="207" key="GridCell.Tab.0.right" timestamp="1583334369758">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="914" height="297" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1583257327888" />
+    <state width="1860" height="207" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1583334369758" />
     <state width="1235" height="297" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1583313342308" />
     <state x="1148" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1583247529732">
       <screen x="0" y="0" width="1920" height="1080" />
